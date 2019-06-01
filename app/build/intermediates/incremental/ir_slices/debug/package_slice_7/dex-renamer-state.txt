@@ -1,0 +1,4 @@
+#Wed May 29 17:04:36 BDT 2019
+base.0=/home/saeef/AndroidStudioProjects/PhoneAuthenticationDemo/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
